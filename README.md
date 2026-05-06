@@ -4,7 +4,7 @@
     align-items: center;
     width: 60%;
     min-width: 300px;
-    background: red;
+    background: PaleTurquoise;
     border: DarkOliveGreen 2px solid;
     border-raduis: 2em;
   ">
